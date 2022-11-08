@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Justin Smith (justsmth@amazon.com). I'm a Senior SDE at AWS.
+- I also have a personal GitHub account here: https://github.com/justinwsmith
 
 <!---
 - 👋 Hi, I’m @justsmth
